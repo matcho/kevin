@@ -10,6 +10,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "async": "^2.1.4",
+    "catbox-redis": "^2.0.2",
     "colors": "^1.1.2",
     "good": "^7.1.0",
     "good-console": "^6.2.0",
@@ -19,6 +20,7 @@
     "inert": "^4.1.0",
     "joi": "^10.2.0",
     "pg": "^6.1.2",
-    "swig": "^1.4.2"
+    "swig": "^1.4.2",
+    "vision": "^4.1.1"
   }
 }
